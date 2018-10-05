@@ -1,0 +1,24 @@
+body{
+	background-color: #c8b9c5
+}
+main { 
+	width: 80%;
+	margin: 0 auto; }
+h1 {
+		font-family: 'Noto Serif JP', sans-serif;
+		font-size: 2em;
+}
+nav {
+	float: left;
+	width: 20%;
+	background-color: gray;
+}
+p {  
+		font-family: 'Noto Serif JP', sans-serif;
+	}
+h3,h2,h1 {
+		text-align: center;
+	}
+.signatur {
+	text-align: right;
+}
